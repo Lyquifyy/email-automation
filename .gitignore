@@ -1,0 +1,8 @@
+# Ignore credentials and tokens
+credentials.json
+token.json
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
